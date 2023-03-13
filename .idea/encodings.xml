@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/hjf/fishGame0112/AllFish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hjf/fishGame0112/FishUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hjf/fishGame0112/ThreadFish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hjf/fishGame0112/collision.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hjf/fishGame0112/threadotherfishlist.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame/AllFish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame/FishUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame/ThreadFish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame/collision.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame/threadotherfishlist.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame111/AllFish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame111/FishUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame111/ThreadFish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame111/collision.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ldw/fishGame111/threadotherfishlist.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
